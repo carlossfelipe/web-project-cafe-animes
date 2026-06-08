@@ -42,7 +42,7 @@ function Cartaz() {
   return (
     <div className="bg-zinc-950 min-h-screen w-full text-white overflow-x-hidden">
       {/* NAVBAR RESPONSIVA */}
-      <nav className="flex flex-col md:flex-row gap-4 md:gap-6 min-h-20 md:h-16 bg-[#262626] items-center justify-between px-6 py-4 md:py-0 w-full">
+      <nav className="flex flex-col md:flex-row gap-4 md:gap-6 min-h-20 md:h-16 bg-[#121212] items-center justify-between px-6 py-4 md:py-0 w-full">
         <h1 className="text-3xl font-bold bg-gradient-to-r from-purple-400 to-violet-700 bg-clip-text text-transparent whitespace-nowrap">
           CafeAnimes
         </h1>

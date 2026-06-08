@@ -47,7 +47,7 @@ function Mensal() {
       {/* Favoritos */}
       <div className="w-full max-w-sm min-h-[400px] flex flex-col justify-between p-8 rounded-2xl bg-transparent border border-violet-700">
         <div>
-          <h3 className="text-3xl font-bold text-center pb-2">Favoritos</h3>
+          <h3 className="text-3xl font-bold text-center pb-2">Premium +</h3>
           <h3 className="text-2xl font-bold text-center">R$ 24,99/Mês</h3>
 
           <div className="mt-6 flex flex-col gap-3">
@@ -123,7 +123,7 @@ function Anual() {
       {/* Favoritos Anual */}
       <div className="w-full max-w-sm min-h-[400px] flex flex-col justify-between p-8 rounded-2xl bg-transparent border border-violet-700">
         <div>
-          <h3 className="text-3xl font-bold text-center pb-2">Favoritos</h3>
+          <h3 className="text-3xl font-bold text-center pb-2">Premium +</h3>
           <h3 className="text-2xl font-bold text-center">R$ 229,99/Ano</h3>
 
           <div className="mt-6 flex flex-col gap-3">
@@ -242,7 +242,7 @@ export default function Home() {
       {/* SERVIÇOS / FUNCIONALIDADES */}
       <section className="py-16 md:py-24 px-4 md:px-10 bg-black">
         <div className="text-center">
-          <h2 className="text-3xl md:text-5xl font-bold">Funcionalidades</h2>
+          <h2 className="text-3xl md:text-5xl font-bold">Seja Premium</h2>
         </div>
 
         <div className="w-full flex justify-center mt-10">
